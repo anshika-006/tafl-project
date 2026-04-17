@@ -2,6 +2,8 @@
 
 A student-friendly web application for exploring DFA minimization through partition refinement. The app lets you enter a DFA using a form or raw JSON, runs the minimization step by step, shows partition tables and split reasons, and renders both the original and minimized automata graphically.
 
+# Live Demo: https://dfa-minimizer.netlify.app/
+
 ## Folder Structure
 
 ```text
